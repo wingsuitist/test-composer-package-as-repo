@@ -1,0 +1,13 @@
+{
+    "name": "wingsuitist/test-composer-package-as-repo",
+    "description": "this ist just a test package to play around with composer repositories",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Jonas Felix",
+            "email": "jf@cabag.ch"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
